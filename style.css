@@ -183,7 +183,7 @@ main {
         padding: 10px 0px 0px 0px;
     }
     .laptop-select{
-        bottom: 2%;
+        bottom: 0;
         right: 50%;
         width: 50%;
         transform: translate(50%,5%);
