@@ -201,7 +201,7 @@ nav{
     span {
         display: flex;
         font-size: 30px;
-        position: fixed;
+        position: absolute;
         right: 3%
     }
     .nav-links{
